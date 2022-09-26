@@ -1,5 +1,11 @@
 [
   {
+     "id":"${UUID_Lounge}",
+     "name":"Lounge",
+     "description": "Welcome to the Lounge room",
+     "disableMeeting":true
+  },
+  {
      "id":"${UUID_A}",
      "name":"PeopleOps",
      "description": "Welcome to the PeopleOps room"
