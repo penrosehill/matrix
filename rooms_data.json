@@ -1,91 +1,91 @@
 [
   {
-     "id":"1",
+     "id":"${UUID_A}",
      "name":"PeopleOps",
      "description": "Welcome to the PeopleOps room"
   },
   {
-     "id":"2",
+     "id":"${UUID_B}",
      "name":"DevOps",
      "description": "Welcome to the DevOps room"
   },
   {
-     "id":"3",
+     "id":"${UUID_C}",
      "name":"Frontend",
      "description": "Welcome to the Frontend room"
   },
   {
-     "id":"4",
+     "id":"${UUID_D}",
      "name":"Backend",
      "description": "Welcome to the Backend room"
   },
   {
-     "id":"5",
+     "id":"${UUID_E}",
      "name":"QA",
      "description": "Welcome to the QA room"
   },
   {
-     "id":"6",
+     "id":"${UUID_F}",
      "name":"UX/UI Design",
      "description": "Welcome to the UX/UI Design room"
   },
   {
-     "id":"7",
+     "id":"${UUID_G}",
      "name":"Engineering",
      "description": "Welcome to the Engineering room"
   },
   {
-     "id":"8",
+     "id":"${UUID_H}",
      "name":"Vendimia",
      "description": "Welcome to the Vendimia room"
   },
   {
-     "id":"9",
+     "id":"${UUID_I}",
      "name":"E&E",
      "description": "Welcome to the E&E room"
   },
   {
-     "id":"10",
+     "id":"${UUID_J}",
      "name":"Malbec",
      "description": "Welcome to the Malbec room"
   },
   {
-     "id":"11",
+     "id":"${UUID_K}",
      "name":"Platform",
      "description": "Welcome to the Platform room"
   },
   {
-     "id":"12",
+     "id":"${UUID_L}",
      "name":"Internal Tools",
      "description": "Welcome to the Internal Tools room"
   },
   {
-     "id":"13",
+     "id":"${UUID_M}",
      "name":"Coffee",
      "description": "Welcome to the Coffee room - Random Chat"
   },
   {
-     "id":"14",
+     "id":"${UUID_N}",
      "name":"Music",
      "description": "Welcome to the Music room"
   },
   {
-     "id":"15",
+     "id":"${UUID_O}",
      "name":"Crypto",
      "description": "Welcome to the Crypto room"
   },
   {
-     "id":"16",
+     "id":"${UUID_P}",
      "name":"Games",
      "description": "Welcome to the Games room"
   },
   {
-     "id":"16",
+     "id":"${UUID_Q}",
      "name":"Movies",
      "description": "Welcome to the Movies room"
   },
   {
-     "id":"17",
+     "id":"${UUID_R}",
      "name":"Sports",
      "description": "Welcome to the Sports room"
   }
