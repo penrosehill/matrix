@@ -73,3 +73,8 @@ file/matrix.room.web.json
 
 # VSCode user settings
 .vscode/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
