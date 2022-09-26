@@ -1,97 +1,97 @@
 [
   {
-     "id":"${LOUNGE}",
+     "id":"lounge",
      "name":"Lounge",
      "description": "Welcome to the Lounge room",
      "disableMeeting":true
   },
   {
-     "id":"${PEOPLEOPS}",
+     "id":"peopleops",
      "name":"PeopleOps",
      "description": "Welcome to the PeopleOps room"
   },
   {
-     "id":"${DEVOPS}",
+     "id":"devops",
      "name":"DevOps",
      "description": "Welcome to the DevOps room"
   },
   {
-     "id":"${FRONTEND}",
+     "id":"frontend",
      "name":"Frontend",
      "description": "Welcome to the Frontend room"
   },
   {
-     "id":"${BACKEND}",
+     "id":"backend",
      "name":"Backend",
      "description": "Welcome to the Backend room"
   },
   {
-     "id":"${QA}",
+     "id":"qa",
      "name":"QA",
      "description": "Welcome to the QA room"
   },
   {
-     "id":"${UXDESIGN}",
+     "id":"uxdesign",
      "name":"UX/UI Design",
      "description": "Welcome to the UX/UI Design room"
   },
   {
-     "id":"${ENGINEERING}",
+     "id":"engineering",
      "name":"Engineering",
      "description": "Welcome to the Engineering room"
   },
   {
-     "id":"${VENDIMIA}",
+     "id":"vendimia",
      "name":"Vendimia",
      "description": "Welcome to the Vendimia room"
   },
   {
-     "id":"${E&E}",
+     "id":"e&e",
      "name":"E&E",
      "description": "Welcome to the E&E room"
   },
   {
-     "id":"${MALBEC}",
+     "id":"malbec",
      "name":"Malbec",
      "description": "Welcome to the Malbec room"
   },
   {
-     "id":"${PLATFORM}",
+     "id":"platform",
      "name":"Platform",
      "description": "Welcome to the Platform room"
   },
   {
-     "id":"${INTERNALTOOLS}",
+     "id":"internaltools",
      "name":"Internal Tools",
      "description": "Welcome to the Internal Tools room"
   },
   {
-     "id":"${COFFEE}",
+     "id":"coffee",
      "name":"Coffee",
      "description": "Welcome to the Coffee room - Random Chat"
   },
   {
-     "id":"${MUSIC}",
+     "id":"music",
      "name":"Music",
      "description": "Welcome to the Music room"
   },
   {
-     "id":"${CRYPTO}",
+     "id":"crypto",
      "name":"Crypto",
      "description": "Welcome to the Crypto room"
   },
   {
-     "id":"${GAMES}",
+     "id":"games",
      "name":"Games",
      "description": "Welcome to the Games room"
   },
   {
-     "id":"${MOVIES}",
+     "id":"movies",
      "name":"Movies",
      "description": "Welcome to the Movies room"
   },
   {
-     "id":"${SPORTS}",
+     "id":"sports",
      "name":"Sports",
      "description": "Welcome to the Sports room"
   }
