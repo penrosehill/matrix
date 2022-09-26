@@ -6,7 +6,7 @@ COPY docker-entrypoint.sh /docker-entrypoint.sh
 
 COPY ./ /var/app
 
-EXPOSE 80
+EXPOSE 8080
 
 RUN npm install --ignore-scripts
 RUN npm run bootstrap
